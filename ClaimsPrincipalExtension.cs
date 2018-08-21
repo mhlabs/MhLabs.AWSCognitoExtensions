@@ -14,10 +14,10 @@ namespace MhLabs.AWSCognitoExtensions
 
         public static string Audience(this ClaimsPrincipal user) {            
             if (user == null || !user.Identity.IsAuthenticated) return null;            
-            var claim = user.Claims.FirstOrDefault(c => c.Type == "aud") ?? user.Claims.FirstOrDefault(c => c.Type == "ClientId");
+            var claim = user.Claims.FirstOrDefault(c => c.Type == "aud") ?? user.Claims.FirstOrDefault(c => c.Type == "client_id");
             return claim?.Value;
         }        
-        
+
         public static string GetClaim(this ClaimsPrincipal user, string type) {            
             if (user == null || !user.Identity.IsAuthenticated) return null;            
             var claim = user.Claims.FirstOrDefault(c => c.Type == type);

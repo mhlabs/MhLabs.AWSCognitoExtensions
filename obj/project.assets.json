@@ -180,7 +180,7 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "restore": {
       "projectUniqueName": "C:\\code\\mhlabs\\MhLabs.AWSCognitoExtensions\\MhLabs.AWSCognitoExtensions.csproj",
       "projectName": "MhLabs.AWSCognitoExtensions",
