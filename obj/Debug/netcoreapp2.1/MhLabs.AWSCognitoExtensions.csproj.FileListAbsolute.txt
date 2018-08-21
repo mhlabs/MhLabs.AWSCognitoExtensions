@@ -1,9 +1,0 @@
-C:\code\test\base-api-2\MhLabs.AWSCognitoExtensions\bin\Debug\netcoreapp2.1\MhLabs.AWSCognitoExtensions.deps.json
-C:\code\test\base-api-2\MhLabs.AWSCognitoExtensions\bin\Debug\netcoreapp2.1\MhLabs.AWSCognitoExtensions.dll
-C:\code\test\base-api-2\MhLabs.AWSCognitoExtensions\bin\Debug\netcoreapp2.1\MhLabs.AWSCognitoExtensions.pdb
-C:\code\test\base-api-2\MhLabs.AWSCognitoExtensions\obj\Debug\netcoreapp2.1\MhLabs.AWSCognitoExtensions.csprojAssemblyReference.cache
-C:\code\test\base-api-2\MhLabs.AWSCognitoExtensions\obj\Debug\netcoreapp2.1\MhLabs.AWSCognitoExtensions.csproj.CoreCompileInputs.cache
-C:\code\test\base-api-2\MhLabs.AWSCognitoExtensions\obj\Debug\netcoreapp2.1\MhLabs.AWSCognitoExtensions.AssemblyInfoInputs.cache
-C:\code\test\base-api-2\MhLabs.AWSCognitoExtensions\obj\Debug\netcoreapp2.1\MhLabs.AWSCognitoExtensions.AssemblyInfo.cs
-C:\code\test\base-api-2\MhLabs.AWSCognitoExtensions\obj\Debug\netcoreapp2.1\MhLabs.AWSCognitoExtensions.dll
-C:\code\test\base-api-2\MhLabs.AWSCognitoExtensions\obj\Debug\netcoreapp2.1\MhLabs.AWSCognitoExtensions.pdb
