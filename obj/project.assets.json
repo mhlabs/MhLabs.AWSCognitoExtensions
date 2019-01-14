@@ -30,10 +30,12 @@
   },
   "libraries": {
     "Microsoft.NETCore.Platforms/1.1.0": {
-      "sha512": "DsnOtnHU99+RfdqYDw5r6uL2T49FhI/peWCG8qgwetkjMQk87VsdRdDgdCKUYKAzDASe5EjzhoFGcwsNNAWfWg==",
+      "sha512": "bLpT1f/SFlO1CzqXG12KnJzpZs6lv24uX2Rzi4Fmm0noJpNlnWRVryuO3yK18Ca04t/YHcO1e1Z0WDfjseqNzw==",
       "type": "package",
       "path": "microsoft.netcore.platforms/1.1.0",
       "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/netstandard1.0/_._",
@@ -43,10 +45,12 @@
       ]
     },
     "NETStandard.Library/2.0.3": {
-      "sha512": "st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
+      "sha512": "R73gEjqCkI2Nw/IlN8QvcgPNklqQiPowp47JwvW0Bnp/RZnjN4UrJwEvWVJWRK1MsQ+HIfGe9i4aQlfK+ei9jA==",
       "type": "package",
       "path": "netstandard.library/2.0.3",
       "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "build/netstandard2.0/NETStandard.Library.targets",
@@ -176,30 +180,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\larsj\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/home/jens-peter/.nuget/packages/": {},
+    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
-    "version": "1.0.3",
+    "version": "1.1.0",
     "restore": {
-      "projectUniqueName": "C:\\code\\mhlabs\\MhLabs.AWSCognitoExtensions\\MhLabs.AWSCognitoExtensions.csproj",
+      "projectUniqueName": "/home/jens-peter/code/mhlabs/MhLabs.AWSCognitoExtensions/MhLabs.AWSCognitoExtensions.csproj",
       "projectName": "MhLabs.AWSCognitoExtensions",
-      "projectPath": "C:\\code\\mhlabs\\MhLabs.AWSCognitoExtensions\\MhLabs.AWSCognitoExtensions.csproj",
-      "packagesPath": "C:\\Users\\larsj\\.nuget\\packages\\",
-      "outputPath": "C:\\code\\mhlabs\\MhLabs.AWSCognitoExtensions\\obj\\",
+      "projectPath": "/home/jens-peter/code/mhlabs/MhLabs.AWSCognitoExtensions/MhLabs.AWSCognitoExtensions.csproj",
+      "packagesPath": "/home/jens-peter/.nuget/packages/",
+      "outputPath": "/home/jens-peter/code/mhlabs/MhLabs.AWSCognitoExtensions/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\larsj\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/jens-peter/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
